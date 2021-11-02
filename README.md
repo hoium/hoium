@@ -1,6 +1,6 @@
 # Hi there, I'm [Jonathan Hoium][linkedin] 👋
 
-## I'll eventually put something useful here. In the meantime, check out [my site][website]
+## I'll eventually put something useful here. In the meantime, check out [my site.][website]
 
 <!--
 **hoium/hoium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
------
+---
+![Hoium's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoium&count_private=true&show_icons=true&theme=noctis_minimus&custom_title=hoium%27s%20GitHub%20Stats)
+
 <!-- Sites -->
 [website]: http://www.hoium.me
 [linkedin]: https://www.linkedin.com/in/hoium/
