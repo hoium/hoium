@@ -1,0 +1,25 @@
+default: true
+MD013: false # Line length
+MD033: false # No inline HTML
+MD041: false # First line in file should be a top level heading
+MD024: false # No duplicate headings
+MD026: false # No trailing punctuation in headings
+MD029: false # Ordered list item prefix
+MD036: false # No emphasis used for headings
+MD012: false # No multiple consecutive blank lines
+MD025: false # Only one top level heading
+MD030: false # List item marker style
+MD032: false # Lists should be surrounded by blank lines
+MD034: false # No bare URLs
+MD035: false # Horizontal rule style
+MD037: false # No space in emphasis
+MD038: false # No space in code spans
+MD039: false # No space in code blocks
+MD040: false # Fenced code blocks should have a language specified
+MD042: false # No empty first line in code blocks
+MD043: false # Required heading structure
+MD044: false # Proper names should have the correct capitalization
+MD045: false # Images should have alternate text (alt text)
+MD046: false # Code block style
+MD047: false # Files should end with a single newline character
+MD048: false # Code fence style
