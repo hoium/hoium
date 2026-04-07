@@ -30,9 +30,9 @@
 
 ## **Pinned Repos**
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=hoium&repo=pi-dash&theme=onedark)
+![pi-dash](https://github-readme-stats-fast.vercel.app/api/pin/?username=hoium&repo=pi-dash)
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=hoium&repo=hoium.github.io&theme=onedark)
+![hoium.github.io](https://github-readme-stats-fast.vercel.app/api/pin/?username=hoium&repo=hoium.github.io)
 
 ## **GitHub Overview**
 
