@@ -30,15 +30,15 @@
 
 ## **Pinned Repos**
 
-![pi-dash](https://github-readme-stats-fast.vercel.app/api/pin/?username=hoium&repo=pi-dash)
+![pi-dash](https://github-readme-stats-fast.vercel.app/api/pin/?username=hoium&repo=pi-dash&theme=noctis_minimus)
 
-![hoium.github.io](https://github-readme-stats-fast.vercel.app/api/pin/?username=hoium&repo=hoium.github.io)
+![hoium.github.io](https://github-readme-stats-fast.vercel.app/api/pin/?username=hoium&repo=hoium.github.io&theme=noctis_minimus)
 
 ## **GitHub Overview**
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=hoium&show_icons=true&count_private=true&&include_all_commits=true&rank_icon=github&hide_border=true&theme=noctis_minimus)
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hoium&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hoium&theme=noctis_minimus&hide_border=true&langs_count=10&layout=compact&count_private=true)
 
 ---
 
