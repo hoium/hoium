@@ -36,7 +36,7 @@
 
 ## **GitHub Overview**
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=hoium&show_icons=true&count_private=true&&include_all_commits=true&rank_icon=github&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=hoium&show_icons=true&count_private=true&&include_all_commits=true&rank_icon=github&hide_border=true&theme=noctis_minimus)
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hoium&layout=compact)
 
