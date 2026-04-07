@@ -36,9 +36,9 @@
 
 ## **GitHub Overview**
 
-![Hoium's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoium&count_private=true&show_icons=true&theme=noctis_minimus&custom_title=hoium%27s%20GitHub%20Stats&rank_icon=github&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=hoium&show_icons=true)\
 
-![Hoium's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoium&theme=noctis_minimus&hide_border=true&langs_count=10&layout=compact&count_private=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hoium&layout=compact)
 
 ---
 
@@ -46,5 +46,3 @@
 
 [website]: http://www.hoium.me
 [linkedin]: https://www.linkedin.com/in/hoium/
-
-<!-- Github Stats from <https://github.com/anuraghazra/github-readme-stats> -->
