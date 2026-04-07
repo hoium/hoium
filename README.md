@@ -30,9 +30,9 @@
 
 ## **Pinned Repos**
 
-[![pi-dash](https://github-readme-stats.vercel.app/api/pin/?username=hoium&repo=pi-dash&theme=noctis_minimus&show_owner=true)](https://github.com/hoium/pi-dash)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=hoium&repo=pi-dash&theme=onedark)
 
-[![hoium.github.io](https://github-readme-stats.vercel.app/api/pin/?username=hoium&repo=hoium.github.io&theme=noctis_minimus&show_owner=true)](https://github.com/hoium/hoium.github.io)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=hoium&repo=hoium.github.io&theme=onedark)
 
 ## **GitHub Overview**
 
